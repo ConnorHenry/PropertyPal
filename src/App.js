@@ -2,9 +2,7 @@ import React, { Component } from 'react';
 import cheerio from 'cheerio';
 import './App.css';
 
-
 class App extends Component{
-
 
   constructor(props) {
     super(props);
