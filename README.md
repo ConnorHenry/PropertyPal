@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A NodeJS/React App to search Property Pal by location
+
+To use, copy repository to machine.
+Make sure you have NodeJS installed.
+Open VSCode (Or another IDE / Terminal)
+Open folder and type "npm i"
+After everything is installed, type "npm start"
+This should start the server on http://localhost:3000, go there and follow steps
+This works best on Chrome.
+
 
 ## Available Scripts
 
